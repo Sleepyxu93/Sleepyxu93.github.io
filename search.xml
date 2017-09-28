@@ -71,4 +71,18 @@
     
   
   
+    
+    <entry>
+      <title><![CDATA[About]]></title>
+      <url>/about/index.html</url>
+      <content type="html"></content>
+    </entry>
+    
+    <entry>
+      <title><![CDATA[tags]]></title>
+      <url>/tags/index.html</url>
+      <content type="html"></content>
+    </entry>
+    
+  
 </search>
